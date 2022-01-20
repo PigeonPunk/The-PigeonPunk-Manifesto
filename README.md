@@ -31,5 +31,9 @@ This document defines a pigeon-based internet system in a world without electron
 ## Computation
 Monkeys would operate punchcard computers.
 
+## Storage
+- Crackers can be used to store data. Using water and a lens, we can burn patterns into crackers for long-term storage. However, simple pecked holes would suffice for cache and short-term storage of data.
+- Crackers can be made from pigeon feed and water.
+
 ## PPS (Pigeon Positioning System)
 - A symmetric, tessellating grid of outposts with pigeons residing in them are dotted across the landscape. For example's sake, we use triangles here. By using seeking pigeons (or hawks if it increases viability) we can triangulate position based on pigeon energy levels. 
