@@ -17,6 +17,6 @@
 
 ## Blockchain
 - Whales can broadcast blockchain state transitions to the entire network. Whales solve the problem of long term communication by aqueduct on land and ocean by water.
-
+- Whales could use morse code to allow interspecies communication between various animals used in the Pigeon Protocol.
 ## Computation
 Monkeys would operate punchcard computers.
