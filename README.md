@@ -27,6 +27,7 @@ This document defines a pigeon-based internet system in a world without electron
 ## Blockchain
 - Whales can broadcast blockchain state transitions to the entire network. Whales solve the problem of long term communication by aqueduct on land and ocean by water.
 - Whales could use morse code to allow interspecies communication between various animals used in the Pigeon Protocol.
+- Whales communicating on different frequencies enable multi-channel communication along a single aqueduct.
 
 ## Computation
 Monkeys would operate punchcard computers.
