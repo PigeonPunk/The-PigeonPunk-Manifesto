@@ -15,6 +15,7 @@ This document defines a pigeon-based internet system in a world without electron
 - Pigeon poop can be used to provide fertiliser for pigeon feed. Humanity would live underground to facilitate this. Thus a self-sustaining pigeon feeding system can be established.
 - Pigeons must travel in symmetric patterns to make sure that lift is evenly distributed. If only one pigeon controls direction (i.e covering the eyes of the lift pigeons), it is possible to change destination very easily.
 - Crackers could be pre-pecked from templates to increase pigeon throughput.
+- The pecked holes (flag bits) also serve as a reward for hardworking pigeons.
 
 ## Server
 - A mouse or rat carries the necessary cracker to move it around the server.
