@@ -2,12 +2,13 @@
 # Pigeonpunk
 
 ## Networking
-- Pigeons carry packets, and are trained to go between the client and the server. 
+- Pigeons carry packets of data, and are sent in batches to enable return communication.
 - It is possible to carry messages over long distances using headers for routers, and changing pigeon at each point in the network.
 - Instead of punchcards, we can train pigeons to peck out holes in crackers.
-- Diffie-Hellman key exchange can provide encryption to prevent MITM attacks.
-- Extra pigeons must be taped to each other since a pigeon can only fly home. The extra pigeons provides additional lift.
-- Pigeon poop can be used to provide fertiliser for pigeon feed. Humanity would live underground to facilitate this.
+- Diffie-Hellman key exchange can provide encryption to prevent MITM attacks (intercepting pigeons).
+- Extra pigeons must be taped to each other since a pigeon can only fly home. The extra pigeons provides additional lift. A pigeon can only carry 10% of its bodyweight so additional pigeons are required to mitigate the Pigeon Lift Problem.
+- Pigeon poop can be used to provide fertiliser for pigeon feed. Humanity would live underground to facilitate this. Thus a self-sustaining pigeon feeding system can be established.
+- Pigeons must travel in symmetric patterns to make sure that lift is evenly distributed. If only one pigeon controls direction (i.e covering the eyes of the lift pigeons), it is possible to change destination very easily.
 
 ## Server
 - A mouse or rat carries the necessary cracker to move it around the server.
